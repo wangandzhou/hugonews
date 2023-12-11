@@ -1,5 +1,5 @@
 baseURL = 'https://wangandzhou.github.io/hugonews/'
 languageCode = 'en-us'
-title = '银翼杀手2024'
+title = '这是我的网站'
 theme = 'ananke'
 publishDir = "docs"
