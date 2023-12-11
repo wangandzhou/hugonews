@@ -4,6 +4,12 @@
   <url>
     <loc>https://example.org/categories/</loc>
   </url><url>
+    <loc>https://example.org/posts/</loc>
+  </url><url>
+    <loc>https://example.org/posts/first/</loc>
+  </url><url>
+    <loc>https://example.org/posts/%E9%A1%B6%E9%A1%B6%E9%A1%B6/</loc>
+  </url><url>
     <loc>https://example.org/tags/</loc>
   </url><url>
     <loc>https://example.org/</loc>
