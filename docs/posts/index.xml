@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 这是我的网站</title>
-    <link>https://example.org/posts/</link>
+    <link>https://wangandzhou.github.io/hugonews/posts/</link>
     <description>Recent content in Posts on 这是我的网站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wangandzhou.github.io/hugonews/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>rrrrr</title>
-      <link>https://example.org/posts/first/</link>
+      <link>https://wangandzhou.github.io/hugonews/posts/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/first/</guid>
+      <guid>https://wangandzhou.github.io/hugonews/posts/first/</guid>
       <description>cfcfff</description>
     </item>
     <item>
       <title>rrrrr</title>
-      <link>https://example.org/posts/%E9%A1%B6%E9%A1%B6%E9%A1%B6/</link>
+      <link>https://wangandzhou.github.io/hugonews/posts/%E9%A1%B6%E9%A1%B6%E9%A1%B6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/%E9%A1%B6%E9%A1%B6%E9%A1%B6/</guid>
+      <guid>https://wangandzhou.github.io/hugonews/posts/%E9%A1%B6%E9%A1%B6%E9%A1%B6/</guid>
       <description>cfcfff
 fffffghghghgfhfhgf</description>
     </item>
